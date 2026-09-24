@@ -16,5 +16,6 @@ chain = prompt | model | parser
 res = chain.invoke({'topic':'India'})
 print(res)
 
+# Printing chain graph
 chain.get_graph().print_ascii()
 

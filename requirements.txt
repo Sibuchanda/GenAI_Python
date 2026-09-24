@@ -5,6 +5,7 @@ langchain-core
 # Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
+langchain-openai
 
 # Machine Learning Utilities
 numpy
