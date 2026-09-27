@@ -12,3 +12,6 @@ langchain-openai
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# WebBaseLoader relies on BeautifulSoup4 behind the scenes to parse HTML web pages
+beautifulsoup4
