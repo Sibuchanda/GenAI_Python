@@ -15,3 +15,4 @@ scikit-learn
 
 # WebBaseLoader relies on BeautifulSoup4 behind the scenes to parse HTML web pages
 beautifulsoup4
+langchain-text-splitters
