@@ -109,5 +109,5 @@ for i in range(len(data["ids"])):
     print(f"\nID: {data['ids'][i]}")
     print("Document:", data["documents"][i])
     print("Metadata:", data["metadatas"][i])
-    print("Embeddings:", data["embeddings"][i])
+    print("Embeddings:", data["embeddings"])
 
