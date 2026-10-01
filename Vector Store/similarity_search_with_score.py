@@ -28,6 +28,17 @@ results = vector_store.similarity_search_with_score(
     k=2
 )
 
+"""
+Here 'results' returns list of touple ( because we used --> similarity_search_with_score) -->
+
+results = [
+    (Document(...), score),
+    (Document(...), score)
+]
+
+
+"""
+
 
 # 4. Display Results
 print("\n========== SIMILARITY SEARCH WITH SCORE ==========")
