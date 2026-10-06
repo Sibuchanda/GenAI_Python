@@ -12,7 +12,7 @@ embedding = OpenAIEmbeddings(
 vector_store=Chroma(
     collection_name="tech",
     embedding_function=embedding,
-    persist_directory='./vector/db'
+    persist_directory='./vector_db'
 )
 
 # Sample documents
