@@ -18,3 +18,4 @@ beautifulsoup4
 langchain-text-splitters
 wikipedia
 youtube-transcript-api
+ddgs
