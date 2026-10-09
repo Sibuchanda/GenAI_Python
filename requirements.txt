@@ -19,3 +19,5 @@ langchain-text-splitters
 wikipedia
 youtube-transcript-api
 ddgs
+langsmith 
+duckduckgo-search
